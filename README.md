@@ -8,7 +8,7 @@
 
 <div align="center">
 
-⚡ **Select `*` From World Where "`Someone`" Likes %`You`%**
+⚡ **Select `*` From World Where "Someone" Likes %`You`%**
 <br/>
  </div>
  
