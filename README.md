@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 See this **Node.js, React, Next... or anything [here](https://github.com/finishr08/MERN-Stack)**
 
-⚡ **Select`*` From World Where "Someone" Likes %You%**
+⚡ **Select `*` From World Where "Someone" Likes %You%**
 
  </div>
  
