@@ -14,8 +14,8 @@
 
 <br/>
 
-<h3 align="center">Explore More! </h3>
-<hr/>
+<h2 align="center">Explore More! </h2>
+<!-- <hr/> -->
 <br/>
 <div align="center"> 
   <a href="https://finishr08.github.io/Mustafa-s-Portfolio/" target="_blank">
@@ -34,8 +34,7 @@
 <br/>
 
 
-<h3 align="center">⚒️Languages-Frameworks⚒️</h3>
-<hr/>
+<h2 align="center">⚒️Languages-Frameworks⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,tailwind,react,bootstrap,mui" />
@@ -45,8 +44,7 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 My Contributions 🐍</h3>
-  <hr/>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
