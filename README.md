@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Twitter-0E0E0F?style=for-the-badge&logo=twitter&logoColor=black%22" />
   </a>
   <a href="https://leetcode.com/u/mustafaahmed08/">
-    <img src="https://img.shields.io/badge/Twitter-0E0E0F?style=for-the-badge&logo=twitter&logoColor=black%22" />
+    <img src="https://img.shields.io/badge/LeetCode-616161?style=for-the-badge&logo=twitter&logoColor=black%22" />
   </a>
 </div>
 <br/>
