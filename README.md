@@ -30,9 +30,14 @@
   <a href="https://www.instagram.com/finis_developer/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    <a href="https://x.com/mustafaahmed_8">
+    <img src="https://img.shields.io/badge/Twitter-0E0E0F?style=for-the-badge&logo=twitter&logoColor=black%22" />
+  </a>
+  <a href="https://leetcode.com/u/mustafaahmed08/">
+    <img src="https://img.shields.io/badge/Twitter-0E0E0F?style=for-the-badge&logo=twitter&logoColor=black%22" />
+  </a>
 </div>
 <br/>
-
 
 <h2 align="center">⚒️Languages-Frameworks⚒️</h2>
 <br/>
