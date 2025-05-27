@@ -5,11 +5,11 @@
 <h3 align="center">Software Engineer | Building Intuitive WebDev</h3>
 <br />
 
-- 🔭 Focusing on FullStack (Frontend + Backend).😎
+- 🔭 Focusing on FullStack { Frontend + Backend }.😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn DSA (Java) and Master MERN.
+- 🥅 2025 Goals: Learn DSA (JavaDcript) and Master MERN.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 <br/>
