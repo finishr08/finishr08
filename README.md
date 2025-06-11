@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" alt="Hi There! ; I'm Mustafa Ahmed!;" />
 </h1>
 
-<h3 align="center">Software Engineer | Building Intuitive WebDev</h3>
+<h3 align="center">Software Engineer | Solving Real Problems with Code</h3>
 <br />
 
 - 🔭 Focusing on FullStack { Frontend + Backend }.😎
@@ -19,13 +19,16 @@
 <br/>
 <div align="center"> 
   <a href="https://mustafa08.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /> 
   </a>
     <a href="https://linkedin.com/in/mustafaahmed08/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-    <a href="mailto:contactmustafa8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <a href="mailto:contactmustafa8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+  </a>
+    <a href="https://leetcode.com/mustafaahmed08/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 <br/>
