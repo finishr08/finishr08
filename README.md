@@ -27,7 +27,7 @@
     <a href="mailto:contactmustafa8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
   </a>
-    <a href="https://leetcode.com/mustafaahmed08/" target="_blank">
+    <a href="https://leetcode.com/finish008/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
