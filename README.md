@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" alt="Hi There! ; I'm Mustafa Ahmed!;" />
 </h1>
 
-<h3 align="center">Software Engineer | Solving Real Problems with Code</h3>
+<h2 align="center">Software Engineer | React.js, Next.js | Node.js, Express.js | SQL, PostgreSQL</h2>
 <br />
 
 - 🔭 Focusing on FullStack { Frontend + Backend }.😎
