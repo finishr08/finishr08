@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" alt="Hi There! ; I'm Mustafa Ahmed!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" alt="Hi There! ; I'm Mustafa Ahmed!;" />
 </h1>
 
 <h2 align="center">Software Engineer | React.js, Next.js | Node.js, Express.js | SQL, PostgreSQL</h2>
