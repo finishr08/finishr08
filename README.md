@@ -38,3 +38,31 @@
 </div>
 
 <br/>
+<h2 align="center">🎓Certificates🎓</h2>
+
+### 1. Developing Front-End with React
+
+**Platform:** Coursera  
+🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/verify/BMZUP38JQB8E)
+
+### 2. Node.js and Express.js
+
+**Platform:** Coursera  
+🔗 Credential: [View Certificate](https://coursera.org/share/47952697071cbec475f7910cc28e81c3)
+
+### 3. Git and GitHub
+
+**Platform:** Coursera  
+🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/verify/Q7TFV2AD2PPC)
+
+### 4. HTML, CSS, JavaScript
+
+**Platform:** Coursera  
+🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/verify/KVPUHS5AGX9W)
+
+### 5. Introduction to Cloud Computing
+
+**Platform:** Coursera  
+🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/records/WURKXSVGGU8Z)
+
+<br/>
