@@ -3,13 +3,14 @@
 </h1>
 
 <h2 align="center">Software Engineer | Building Scalable Web Solutions</h2>
+
 <br />
 
 - 🔭 Focusing on FullStack { Frontend + Backend }.😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn DSA (JavaDcript) and Master MERN.
+- 🥅 2026 Goals: Learn DSA (JavaScript, Python) and Master MERN.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 <br/>
@@ -38,6 +39,7 @@
 </div>
 
 <br/>
+
 <h2 align="center">🎓Certificates🎓</h2>
 
 ### 1. Developing Front-End with React
