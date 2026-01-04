@@ -45,7 +45,7 @@
 
 <h2 align="center">🎓 Certifications 🎓</h2>
 
-### Developing Front-End Apps with React
+### Developing Front-End with React
 
 **Platform:** Coursera  
 🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/verify/BMZUP38JQB8E)
