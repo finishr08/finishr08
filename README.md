@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=700&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" alt="Hi There! ; I'm Mustafa Ahmed!;" />
 </h1>
 
-<h2 align="center">Software Engineer |Building Scalable Web Solutions | React.js, Next.js | Node.js, Express.js</h2>
+<h2 align="center">Software Engineer | Building Scalable Web Solutions | React.js, Next.js | Node.js, Express.js</h2>
 <br />
 
 - 🔭 Focusing on FullStack { Frontend + Backend }.😎
