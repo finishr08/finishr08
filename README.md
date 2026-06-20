@@ -45,7 +45,7 @@
 
 <h2 align="center">🎓 Certifications 🎓</h2>
 
-### Software Engineering specialization
+### Software Engineering Specialization
 
 **Platform:** The Hong Kong University of Science and Technology  
 🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/specialization/12CSF4WDED9F)
