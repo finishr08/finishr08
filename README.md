@@ -6,14 +6,14 @@
 
 <br />
 
-- 🔭 Currently working on: Next.js, React Native, and Shopify projects.
-- 💻 Web Development: Building modern, responsive applications using React.js and Next.js.
-- 📱 Mobile Development: Developing cross-platform applications with React Native.
-- 🛍️ E-Commerce: Developing Shopify stores and custom Shopify applications.
-- ⚙️ Backend: Working with APIs, integrations, and application architecture.
-- 🚀 Engineering Focus: Performance, scalability, clean code, and maintainability.
-- 📚 Continuous Growth: Exploring advanced development practices and modern technologies.
-- 🎯 2026 Goals: Strengthen system design, backend architecture, and DSA skills.
+- 🔭 **Current:** Next.js, React Native, and Shopify projects.
+- 💻 **Web Development:** Building modern, responsive applications using React.js and Next.js.
+- 📱 **Mobile Development:** Developing cross-platform applications with React Native.
+- 🛍️ **E-Commerce:** Developing Shopify stores and custom Shopify applications.
+- ⚙️ **Backend:** Working with APIs, integrations, and application architecture.
+- 🚀 **Engineering Focus:** Performance, scalability, clean code, and maintainability.
+- 📚 **Growth:** Exploring advanced development practices and modern technologies.
+- 🎯 **2027 Goals:** Strengthen system design, backend architecture, and DSA skills.
 
 <br/>
 
