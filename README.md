@@ -2,16 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=700&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Mustafa+Ahmed!;" />
 </h1>
 
-<h2 align="center">Software Engineer | Building Scalable Web Solutions</h2>
+<h3 align="center">Software Engineer | Building High-Performance Web & Mobile Applications</h3>
 
 <br />
 
-- 🔭 Focused on Full-Stack development (Frontend + Backend)
-- 🌱 Actively deepening expertise in MERN stack
-- 💻 Enjoy building real-world projects and experimenting with new technologies
-- 📰 Regularly reading technical documentation
-- 🥅 2026 Goals: DSA (JavaScript & Python) + Advanced MERN
-- ⚡ Fun fact: `==` is not always equal in JavaScript 😄
+- 🔭 Currently working on: Next.js, React Native, and Shopify projects.
+
+- 💻 Web Development: Building modern, responsive applications using React.js and Next.js.
+
+- 📱 Mobile Development: Developing cross-platform applications with React Native.
+
+- 🛍️ E-Commerce: Developing Shopify stores and custom Shopify applications.
+
+- ⚙️ Backend: Working with APIs, integrations, and application architecture.
+
+- 🚀 Engineering Focus: Performance, scalability, clean code, and maintainability.
+
+- 📚 Continuous Growth: Exploring advanced development practices and modern technologies.
+
+- 🎯 2026 Goals: Strengthen system design, backend architecture, and DSA skills.
 
 <br/>
 
