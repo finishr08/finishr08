@@ -52,7 +52,7 @@
 **Platform:** The Hong Kong University of Science and Technology  
 🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/specialization/12CSF4WDED9F)
 
-### Developing Front-End with React
+### Front-End with React
 
 **Platform:** Coursera  
 🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/verify/BMZUP38JQB8E)
@@ -62,7 +62,7 @@
 **Platform:** Coursera  
 🔗 Credential: [View Certificate](https://coursera.org/share/47952697071cbec475f7910cc28e81c3)
 
-### Introduction to Cloud Computing
+### Cloud Computing
 
 **Platform:** Coursera  
 🔗 Credential: [View Certificate](https://www.coursera.org/account/accomplishments/records/WURKXSVGGU8Z)
